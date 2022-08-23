@@ -1,1 +1,1 @@
-echo 'echo up_to_date' > up_to_date
+git add up_to_date
